@@ -1,6 +1,6 @@
 # Magnetic Repulsion Motor and Generator
 
-![Bannon Maher Magnetic Repulsion Generator](bannon_maher_magnetic_repulsion_generator.png)
+![Bannon Maher Magnetic Repulsion Generator](bannon_maher_magnetic_repulsion_generator.jpg)
 
 This repository contains the following files, along with their translations if applicable:
 - Generator and Motor Patent (text, certified provisional)
